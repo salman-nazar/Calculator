@@ -20,3 +20,26 @@
     border-radius: 12px;
     border: 2px solid rgb(255, 255, 255);
 }
+
+
+.calculator form input{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.3), 5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+}
+.calculator form input:hover {
+    background-color:rgb(236, 236, 228);
+    color:rgb(79, 69, 69);
+    border: 2px solid rgb(27, 27, 25);
+    font-size: 20px;
+    font-weight: bold;
+}
+
