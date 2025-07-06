@@ -1,5 +1,5 @@
 
-This project is a basic calculator built entirely using HTML, CSS, and JavaScript, without the use of any external libraries or frameworks. It is designed to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division.
+This project is a basic calculator built entirely using HTML, CSS, and JavaScript internally, without the use of any external libraries or frameworks. It is designed to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division.
 
 
 Key Features:
